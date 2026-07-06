@@ -1,21 +1,24 @@
 # Usama Apps Website
 
-Static website for Usama Apps, including:
+Premium static website for Usama Apps, hosted on GitHub Pages.
 
-- Home page
-- CricScore privacy policy
-- Support page
-- Founder profile placeholder page
+## Structure
 
-## Files
+- `index.html` — Home page
+- `apps/cricscore/index.html` — CricScore app page
+- `privacy/cricscore.html` — CricScore privacy policy
+- `support/index.html` — Support center
+- `profile/index.html` — Muhammad Usama profile
+- `about/index.html` — About Usama Apps
+- `contact/index.html` — Contact page
+- `assets/css/style.css` — Website styles
+- `assets/js/main.js` — Scroll animations
+- `assets/images/profile.jpg` — Profile image
 
-- `index.html`
-- `privacy.html`
-- `support.html`
-- `profile.html`
+## GitHub Pages
 
-## Deployment
+Use branch `main` and folder `/root`.
 
-Upload these files to your GitHub Pages repository root. The privacy policy URL will be:
+Privacy Policy URL:
 
-`https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO/privacy.html`
+`https://musama99.github.io/usama-apps/privacy/cricscore.html`
