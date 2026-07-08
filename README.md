@@ -1,19 +1,20 @@
-# Usama Apps Website
+# Usama Apps Studio Website
 
-Premium static website for Usama Apps, hosted on GitHub Pages.
+Premium static website for Usama Apps Studio, hosted on GitHub Pages.
 
 ## Structure
 
 - `index.html` — Home page
 - `apps/cricscore/index.html` — CricScore app page
-- `privacy/cricscore.html` — CricScore privacy policy
-- `support/index.html` — Support center
-- `profile/index.html` — Muhammad Usama profile
-- `about/index.html` — About Usama Apps
+- `privacy/index.html` — Privacy Center
+- `privacy/cricscore.html` — CricScore Privacy Policy
+- `support/index.html` — Support Center
+- `profile/index.html` — Muhammad Usama Profile
+- `about/index.html` — About Studio
 - `contact/index.html` — Contact page
 - `assets/css/style.css` — Website styles
-- `assets/js/main.js` — Scroll animations
-- `assets/images/profile.jpg` — Profile image
+- `assets/js/main.js` — Scroll animations and mobile menu
+- `assets/images/` — Logos and website images
 
 ## GitHub Pages
 
